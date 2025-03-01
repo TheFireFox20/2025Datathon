@@ -65,7 +65,7 @@
 64,"Corey","Warren","DL","Georgia State","Samford","2024-04-17T18:33:00.000Z",NA,3,"Immediate","Samford",TRUE,"Corey Warren",NA
 65,"Charles","Brown","CB","Texas State","Nevada","2024-04-17T18:31:00.000Z",NA,NA,"Immediate","Nevada",TRUE,"Charles Brown","nevada"
 66,"Treylin","Payne","LB","Houston","Texas State","2024-04-17T18:29:00.000Z",0.85,3,"Immediate","Texas State",TRUE,"Treylin Payne","texas-state"
-67,"Connor","Gilbreath","TE","LSU","Boise State","2024-04-17T18:13:00.000Z",0.83,3,"Immediate","Boise State",TRUE,"Connor Gilbreath",NA
+67,"Connor","Gilbreath","TE","LSU","Boise State","2024-04-17T18:13:00.000Z",0.83,3,"Immediate","Boise State",TRUE,"Connor Gilbreath","boise-state"
 68,"Habib","Bello","DL","Washington","","2024-04-17T18:09:00.000Z",NA,2,"Immediate","Washington",FALSE,"Habib Bello","washington"
 69,"Vito","Tisdale","S","Colorado","Eastern Kentucky","2024-04-17T18:07:00.000Z",0.84,3,"Immediate","Eastern Kentucky",TRUE,"Vito Tisdale",NA
 70,"Anthony","Smith","IOL","Iowa State","Tennessee State","2024-04-17T18:02:00.000Z",NA,2,"Immediate","Tennessee State",TRUE,"Anthony Smith",NA
@@ -264,7 +264,7 @@
 263,"Sean","Sallis","TE","Marshall","","2023-12-04T14:35:00.000Z",NA,3,"Immediate","Marshall",FALSE,"Sean Sallis","marshall"
 264,"Hank","Bachmeier","QB","Louisiana Tech","Wake Forest","2023-11-28T15:05:00.000Z",0.86,3,"Immediate","Wake Forest",TRUE,"Hank Bachmeier","wake-forest"
 265,"Carter","Hooper","DL","UConn","South Dakota","2023-11-28T14:31:00.000Z",NA,3,"Immediate","South Dakota",TRUE,"Carter Hooper",NA
-266,"Shea","Whiting","WR","Boise State","","2024-01-26T06:00:00.000Z",NA,3,"Immediate","Boise State",FALSE,"Shea Whiting",NA
+266,"Shea","Whiting","WR","Boise State","","2024-01-26T06:00:00.000Z",NA,3,"Immediate","Boise State",FALSE,"Shea Whiting","boise-state"
 267,"Corey","Flagg","LB","Miami","Missouri","2023-11-28T16:48:00.000Z",0.86,3,"Immediate","Missouri",TRUE,"Corey Flagg","missouri"
 268,"Bralon","Brown","WR","Ole Miss","Marshall","2023-12-12T02:02:00.000Z",0.85,3,"Immediate","Marshall",TRUE,"Bralon Brown","marshall"
 269,"Denim","Edwards","RB","Navy","Presbyterian","2023-12-12T02:01:00.000Z",NA,NA,"Immediate","Presbyterian",TRUE,"Denim Edwards",NA
@@ -388,7 +388,7 @@
 387,"Andy","Alfieri","TE","California","Oregon State","2024-04-16T22:03:00.000Z",0.84,3,"Immediate","Oregon State",TRUE,"Andy Alfieri","oregon-state"
 388,"Carson","Goda","TE","Saint Anselm","Illinois","2024-04-18T03:58:00.000Z",0.84,3,"Immediate","Illinois",TRUE,"Carson Goda","illinois"
 389,"Desna","Washington","WR","New Mexico","Florida International","2023-11-26T06:00:00.000Z",0.84,3,"Immediate","Florida International",TRUE,"Desna Washington","florida-international"
-390,"Mitchell","Bothwell","TE","Villanova","Boise State","2024-02-07T06:00:00.000Z",0.83,3,"Immediate","Boise State",TRUE,"Mitchell Bothwell",NA
+390,"Mitchell","Bothwell","TE","Villanova","Boise State","2024-02-07T06:00:00.000Z",0.83,3,"Immediate","Boise State",TRUE,"Mitchell Bothwell","boise-state"
 391,"Ted","Hurst","WR","Valdosta State","Georgia State","2024-03-05T23:21:00.000Z",0.83,3,"Immediate","Georgia State",TRUE,"Ted Hurst","georgia-state"
 392,"Jace","Henry","TE","Dartmouth","Nevada","2023-11-23T06:00:00.000Z",0.83,3,"Immediate","Nevada",TRUE,"Jace Henry","nevada"
 393,"Andrew","McElroy","WR","St. Thomas","Northern Illinois","2023-11-03T15:09:00.000Z",0.83,3,"Immediate","Northern Illinois",TRUE,"Andrew McElroy","northern-illinois"
@@ -643,7 +643,7 @@
 642,"JaTravis","Broughton","CB","Utah","TCU","2023-12-07T20:43:00.000Z",0.88,3,"Immediate","TCU",TRUE,"JaTravis Broughton",NA
 643,"Kervins","Choute","DL","UCF","UConn","2023-12-08T21:49:00.000Z",0.82,3,"Immediate","UConn",TRUE,"Kervins Choute",NA
 644,"Connor","Meadows","IOL","Tennessee","Tennessee State","2023-12-07T16:52:00.000Z",NA,NA,"Immediate","Tennessee State",TRUE,"Connor Meadows",NA
-645,"Jeremiah","Earby","CB","California","Boise State","2023-12-05T22:40:00.000Z",0.87,3,"Immediate","Boise State",TRUE,"Jeremiah Earby",NA
+645,"Jeremiah","Earby","CB","California","Boise State","2023-12-05T22:40:00.000Z",0.87,3,"Immediate","Boise State",TRUE,"Jeremiah Earby","boise-state"
 646,"Jean Marc","Etienne","RB","Illinois","","2023-12-05T22:27:00.000Z",NA,2,"Immediate","Illinois",FALSE,"Jean Marc Etienne","illinois"
 647,"Hayden","Timosciek","TE","Bowling Green","","2023-12-05T22:24:00.000Z",NA,NA,"Immediate","Bowling Green",FALSE,"Hayden Timosciek","bowling-green-state"
 648,"Trent","Howland","RB","Indiana","Oklahoma State","2024-04-12T13:39:00.000Z",0.87,3,"Immediate","Oklahoma State",TRUE,"Trent Howland","oklahoma-state"
@@ -846,7 +846,6 @@
 845,"Mekhi","Fox","WR","Colorado State","","2024-04-23T17:38:00.000Z",NA,4,"Immediate","Colorado State",FALSE,"Mekhi Fox","colorado-state"
 846,"Jay","Rudolph","TE","San Diego State","Sacramento State","2023-09-27T14:56:00.000Z",NA,3,"Immediate","Sacramento State",TRUE,"Jay Rudolph",NA
 847,"Devontae","Houston","RB","UConn","East Tennessee State","2023-09-27T14:53:00.000Z",0.85,3,"Immediate","East Tennessee State",TRUE,"Devontae Houston",NA
-848,"Alex","Washington","CB","Boston College","","2023-09-26T17:36:00.000Z",NA,3,"Immediate","Boston College",FALSE,"Alex Washington","boise-state"
 848,"Alex","Washington","CB","Boston College","","2023-09-26T17:36:00.000Z",NA,3,"Immediate","Boston College",FALSE,"Alex Washington","boston-college"
 849,"Jake","Overman","TE","Oregon State","Pittsburgh","2023-09-25T14:53:00.000Z",0.86,3,"Immediate","Pittsburgh",TRUE,"Jake Overman","pittsburgh"
 850,"Charles","Shelling","RB","Texas A&M","Texas Southern","2023-09-19T17:38:00.000Z",NA,NA,"Immediate","Texas Southern",TRUE,"Charles Shelling",NA
@@ -1066,7 +1065,7 @@
 1064,"Jordan","Nabors","WR","Baylor","Stephen F. Austin","2024-04-22T18:09:00.000Z",NA,3,"Immediate","Stephen F. Austin",TRUE,"Jordan Nabors",NA
 1065,"Kamarro","Edmonds","RB","East Carolina","","2024-04-22T18:06:00.000Z",NA,4,"Immediate","East Carolina",FALSE,"Kamarro Edmonds","east-carolina"
 1066,"Sean","Brown","CB","Michigan State","","2024-04-22T18:00:00.000Z",NA,3,"Immediate","Michigan State",FALSE,"Sean Brown","michigan-state"
-1067,"Davon","Banks","CB","Washington","Boise State","2024-04-22T17:51:00.000Z",0.85,3,"Immediate","Boise State",TRUE,"Davon Banks",NA
+1067,"Davon","Banks","CB","Washington","Boise State","2024-04-22T17:51:00.000Z",0.85,3,"Immediate","Boise State",TRUE,"Davon Banks","boise-state"
 1068,"Israel","Polk","WR","Pittsburgh","Akron","2024-04-22T17:49:00.000Z",0.86,3,"Immediate","Akron",TRUE,"Israel Polk","akron"
 1069,"Justin","Harrington","S","Oklahoma","Washington","2024-04-22T17:30:00.000Z",0.86,3,"TBD","Washington",TRUE,"Justin Harrington","washington"
 1070,"Taylor","Love","LB","Tulane","Tennessee Tech","2024-04-22T17:24:00.000Z",NA,3,"Immediate","Tennessee Tech",TRUE,"Taylor Love",NA
@@ -1282,7 +1281,7 @@
 1280,"Zach","Horton","TE","James Madison","Indiana","2023-12-05T01:42:00.000Z",0.85,3,"Immediate","Indiana",TRUE,"Zach Horton","indiana"
 1281,"Joseph","Solomon","IOL","App State","","2023-12-22T21:40:00.000Z",NA,2,"Immediate","App State",FALSE,"Joseph Solomon","appalachian-state"
 1282,"Timmy","McClain","QB","UCF","Arkansas State","2024-04-15T12:50:00.000Z",0.87,3,"Immediate","Arkansas State",TRUE,"Timmy McClain","arkansas-state"
-1283,"Jake","Steele","IOL","San José State","Boise State","2024-04-15T05:00:00.000Z",0.82,3,"Immediate","Boise State",TRUE,"Jake Steele",NA
+1283,"Jake","Steele","IOL","San José State","Boise State","2024-04-15T05:00:00.000Z",0.82,3,"Immediate","Boise State",TRUE,"Jake Steele","boise-state"
 1284,"A.J.","Harris","CB","Georgia","Penn State","2023-12-16T00:50:00.000Z",0.95,4,"Immediate","Penn State",TRUE,"A.J. Harris","penn-state"
 1285,"Keylan","Rutledge","IOL","Middle Tennessee","Georgia Tech","2023-11-29T17:58:00.000Z",0.87,3,"Immediate","Georgia Tech",TRUE,"Keylan Rutledge","georgia-tech"
 1286,"Gabarri","Johnson","QB","Missouri","Oregon State","2023-12-16T00:11:00.000Z",0.87,3,"Immediate","Oregon State",TRUE,"Gabarri Johnson","oregon-state"
@@ -1493,9 +1492,7 @@
 1491,"Naquil","Betrand","OT","Texas A&M","Alabama","2023-12-20T23:50:00.000Z",0.88,3,"Immediate","Alabama",TRUE,"Naquil Betrand","alabama"
 1492,"Tychaun","Chapman","WR","North Carolina","Marshall","2023-12-04T12:09:00.000Z",0.86,3,"Immediate","Marshall",TRUE,"Tychaun Chapman","marshall"
 1493,"Evan","Pryor","RB","Ohio State","Cincinnati","2023-12-04T12:06:00.000Z",0.88,3,"Immediate","Cincinnati",TRUE,"Evan Pryor","cincinnati"
-1494,"Cameron","Martinez","S","Ohio State","Boston College","2023-12-04T12:05:00.000Z",0.87,3,"Immediate","Boston College",TRUE,"Cameron Martinez","boise-state"
 1494,"Cameron","Martinez","S","Ohio State","Boston College","2023-12-04T12:05:00.000Z",0.87,3,"Immediate","Boston College",TRUE,"Cameron Martinez","boston-college"
-1495,"Jayden","McGowan","WR","Vanderbilt","Boston College","2023-12-04T13:23:00.000Z",0.88,3,"Immediate","Boston College",TRUE,"Jayden McGowan","boise-state"
 1495,"Jayden","McGowan","WR","Vanderbilt","Boston College","2023-12-04T13:23:00.000Z",0.88,3,"Immediate","Boston College",TRUE,"Jayden McGowan","boston-college"
 1496,"Derrick","Harmon","DL","Michigan State","Oregon","2024-04-23T17:22:00.000Z",0.91,4,"Immediate","Oregon",TRUE,"Derrick Harmon","oregon"
 1497,"Jordan","Grier","S","Indiana","Memphis","2023-12-26T14:12:00.000Z",0.85,3,"TBD","Memphis",TRUE,"Jordan Grier","memphis"
@@ -1579,7 +1576,7 @@
 1575,"Jude","Wolfe","TE","USC","San Diego State","2023-12-01T22:09:00.000Z",0.87,3,"Immediate","San Diego State",TRUE,"Jude Wolfe","san-diego-state"
 1576,"Andre","Greene Jr.","WR","North Carolina","Virginia","2023-12-04T12:01:00.000Z",0.89,3,"Immediate","Virginia",TRUE,"Andre Greene Jr.","virginia"
 1577,"Nolan","Rucci","OT","Wisconsin","Penn State","2024-01-04T21:29:00.000Z",0.89,3,"Immediate","Penn State",TRUE,"Nolan Rucci","penn-state"
-1578,"Jalen","Neal","CB","Boise State","","2024-04-16T19:43:00.000Z",NA,NA,"Immediate","Boise State",FALSE,"Jalen Neal",NA
+1578,"Jalen","Neal","CB","Boise State","","2024-04-16T19:43:00.000Z",NA,NA,"Immediate","Boise State",FALSE,"Jalen Neal","boise-state"
 1579,"DeCarlos","Nicholson","CB","Mississippi State","USC","2023-12-07T22:04:00.000Z",0.87,3,"Immediate","USC",TRUE,"DeCarlos Nicholson",NA
 1580,"Holden","Staes","TE","Notre Dame","Tennessee","2023-12-05T00:06:00.000Z",0.93,4,"Immediate","Tennessee",TRUE,"Holden Staes","tennessee"
 1581,"Jordan","Waters","RB","Duke","NC State","2023-12-08T17:47:00.000Z",0.91,4,"Immediate","NC State",TRUE,"Jordan Waters",NA
@@ -1632,7 +1629,6 @@
 1628,"Jaylen","Nichols","OT","South Carolina","Memphis","2023-12-20T17:41:00.000Z",0.85,3,"Immediate","Memphis",TRUE,"Jaylen Nichols","memphis"
 1629,"Quenton","Rice","CB","BYU","Kansas State","2023-12-20T17:36:00.000Z",NA,3,"Immediate","Kansas State",TRUE,"Quenton Rice","kansas-state"
 1630,"EJ","Ndoma-Ogar","IOL","Missouri","Arkansas State","2023-12-04T17:25:00.000Z",0.82,3,"Immediate","Arkansas State",TRUE,"EJ Ndoma-Ogar","arkansas-state"
-1631,"Ryan","Turner","CB","Ohio State","Boston College","2023-12-04T12:03:00.000Z",0.86,3,"Immediate","Boston College",TRUE,"Ryan Turner","boise-state"
 1631,"Ryan","Turner","CB","Ohio State","Boston College","2023-12-04T12:03:00.000Z",0.86,3,"Immediate","Boston College",TRUE,"Ryan Turner","boston-college"
 1632,"Job","Kralik","WR","East Tennessee State","Weber State","2023-12-04T17:24:00.000Z",NA,3,"Immediate","Weber State",TRUE,"Job Kralik",NA
 1633,"Dywan","Griffin","CB","UTSA","","2024-02-02T19:27:00.000Z",NA,3,"Immediate","UTSA",FALSE,"Dywan Griffin",NA
@@ -1761,12 +1757,10 @@
 1756,"Qway","McCoy","S","UL Monroe","Kennesaw State","2023-12-04T06:00:00.000Z",0.81,3,"Immediate","Kennesaw State",TRUE,"Qway McCoy",NA
 1757,"Tamarion","McDonald","S","Tennessee","Louisville","2023-12-13T15:36:00.000Z",0.9,4,"Immediate","Louisville",TRUE,"Tamarion McDonald","louisville"
 1758,"Desmond","Reid","RB","Western Carolina","Pittsburgh","2023-12-06T18:01:00.000Z",0.87,3,"Immediate","Pittsburgh",TRUE,"Desmond Reid","pittsburgh"
-1759,"Sedarius","McConnell","DL","Illinois","Boston College","2023-12-06T15:40:00.000Z",0.87,3,"Immediate","Boston College",TRUE,"Sedarius McConnell","boise-state"
 1759,"Sedarius","McConnell","DL","Illinois","Boston College","2023-12-06T15:40:00.000Z",0.87,3,"Immediate","Boston College",TRUE,"Sedarius McConnell","boston-college"
 1760,"Dexter","Williams II","QB","Indiana","Georgia Southern","2023-11-27T16:23:00.000Z",0.84,3,"Immediate","Georgia Southern",TRUE,"Dexter Williams II","georgia-southern"
 1761,"Ozzie","Nicholas","LB","Princeton","Duke","2023-11-27T16:23:00.000Z",0.88,3,"Immediate","Duke",TRUE,"Ozzie Nicholas","duke"
 1762,"Gerquan","Scott","IOL","Southern Miss","Ole Miss","2023-11-27T15:41:00.000Z",0.88,3,"Immediate","Ole Miss",TRUE,"Gerquan Scott","mississippi"
-1763,"Kamari","Morales","TE","North Carolina","Boston College","2023-11-27T13:26:00.000Z",0.88,3,"Immediate","Boston College",TRUE,"Kamari Morales","boise-state"
 1763,"Kamari","Morales","TE","North Carolina","Boston College","2023-11-27T13:26:00.000Z",0.88,3,"Immediate","Boston College",TRUE,"Kamari Morales","boston-college"
 1764,"DJ","Wingfield","IOL","New Mexico","Purdue","2023-11-27T06:00:00.000Z",0.87,3,"Immediate","Purdue",TRUE,"DJ Wingfield","purdue"
 1765,"Tre'Quon","Fegans","CB","USC","UCF","2024-04-16T19:34:00.000Z",0.88,3,"Immediate","UCF",TRUE,"Tre'Quon Fegans",NA
@@ -1996,7 +1990,6 @@
 1989,"Akhnaton","Shabazz","LB","South Carolina","Grambling","2023-10-27T13:36:00.000Z",NA,NA,"Immediate","Grambling",TRUE,"Akhnaton Shabazz",NA
 1990,"Myles","Farmer","S","Syracuse","App State","2024-01-02T19:18:00.000Z",0.86,3,"Immediate","App State",TRUE,"Myles Farmer","appalachian-state"
 1991,"Jordan","Guerad","DL","Florida International","Louisville","2023-12-17T03:16:00.000Z",0.86,3,"Immediate","Louisville",TRUE,"Jordan Guerad","louisville"
-1992,"Charlie","Gordinier","TE","Boston College","","2024-02-08T06:00:00.000Z",NA,3,"Immediate","Boston College",FALSE,"Charlie Gordinier","boise-state"
 1992,"Charlie","Gordinier","TE","Boston College","","2024-02-08T06:00:00.000Z",NA,3,"Immediate","Boston College",FALSE,"Charlie Gordinier","boston-college"
 1993,"Micaiah","Overton","DL","Texas A&M","Arkansas State","2023-12-05T23:32:00.000Z",0.81,3,"Immediate","Arkansas State",TRUE,"Micaiah Overton","arkansas-state"
 1994,"Stanley","King","WR","Northwestern State","Kent State","2023-11-30T16:57:00.000Z",0.82,3,"Immediate","Kent State",TRUE,"Stanley King","kent-state"
@@ -2050,7 +2043,6 @@
 2042,"Chance","Williams","RB","Grambling","Cincinnati","2023-12-20T06:00:00.000Z",0.87,3,"Immediate","Cincinnati",TRUE,"Chance Williams","cincinnati"
 2043,"RJ","Delancy III","CB","Toledo","Wisconsin","2024-01-01T12:29:00.000Z",0.88,3,"Immediate","Wisconsin",TRUE,"RJ Delancy III","wisconsin"
 2044,"Tyren","Mason","WR","Western Michigan","","2023-12-04T19:51:00.000Z",NA,3,"Immediate","Western Michigan",FALSE,"Tyren Mason","western-michigan"
-2045,"Jerand","Bradley","WR","Texas Tech","Boston College","2023-12-04T19:48:00.000Z",0.88,3,"Immediate","Boston College",TRUE,"Jerand Bradley","boise-state"
 2045,"Jerand","Bradley","WR","Texas Tech","Boston College","2023-12-04T19:48:00.000Z",0.88,3,"Immediate","Boston College",TRUE,"Jerand Bradley","boston-college"
 2046,"CJ","Evans Jr.","RB","Austin Peay","Tennessee State","2024-03-27T05:00:00.000Z",NA,3,"Immediate","Tennessee State",TRUE,"CJ Evans Jr.",NA
 2047,"Kalil","Girault","WR","Arkansas","","2023-12-01T22:42:00.000Z",NA,NA,"Immediate","Arkansas",FALSE,"Kalil Girault","arkansas"
@@ -2110,7 +2102,7 @@
 2101,"Austin","Smith","QB","Eastern Michigan","Austin Peay","2023-12-04T18:58:00.000Z",NA,2,"Immediate","Austin Peay",TRUE,"Austin Smith",NA
 2102,"Brent","Austin","CB","James Madison","South Florida","2024-01-04T22:56:00.000Z",0.82,3,"Immediate","South Florida",TRUE,"Brent Austin","south-florida"
 2103,"Konnor","Near","LB","Oklahoma","","2024-03-18T13:05:00.000Z",NA,NA,"Immediate","Oklahoma",FALSE,"Konnor Near","oklahoma"
-2104,"Malachi","Nelson","QB","USC","Boise State","2023-12-18T02:26:00.000Z",0.91,4,"Immediate","Boise State",TRUE,"Malachi Nelson",NA
+2104,"Malachi","Nelson","QB","USC","Boise State","2023-12-18T02:26:00.000Z",0.91,4,"Immediate","Boise State",TRUE,"Malachi Nelson","boise-state"
 2105,"Charles","Gadie","S","Northwest Missouri St","Central Missouri","2024-01-08T12:18:00.000Z",NA,2,"Immediate","Central Missouri",TRUE,"Charles Gadie",NA
 2106,"Shancco","Matautia","IOL","Arizona State","Arizona","2024-04-30T22:26:00.000Z",0.84,3,"Immediate","Arizona",TRUE,"Shancco Matautia","arizona"
 2107,"Todd","Bowles Jr.","S","Rutgers","","2023-12-17T06:00:00.000Z",NA,NA,"Immediate","Rutgers",FALSE,"Todd Bowles Jr.","rutgers"
@@ -2128,7 +2120,7 @@
 2119,"Reece","Adkins","TE","Eastern Kentucky","UCF","2023-11-20T15:56:00.000Z",0.83,3,"Immediate","UCF",TRUE,"Reece Adkins",NA
 2120,"Kaiya","Sheron","QB","Kentucky","UT Martin","2023-12-05T21:43:00.000Z",NA,3,"Immediate","UT Martin",TRUE,"Kaiya Sheron",NA
 2121,"Jamar","Sekona","DL","USC","Hawai'i","2023-11-19T22:50:00.000Z",NA,3,"Immediate","Hawai'i",TRUE,"Jamar Sekona","hawaii"
-2122,"Cam","Camper","WR","Indiana","Boise State","2023-12-06T18:39:00.000Z",0.84,3,"Immediate","Boise State",TRUE,"Cam Camper",NA
+2122,"Cam","Camper","WR","Indiana","Boise State","2023-12-06T18:39:00.000Z",0.84,3,"Immediate","Boise State",TRUE,"Cam Camper","boise-state"
 2123,"DJ","VanHook","CB","App State","","2024-03-05T06:00:00.000Z",NA,NA,"Immediate","App State",FALSE,"DJ VanHook","appalachian-state"
 2124,"Carmelo","Crump","IOL","UL Monroe","Southern","2023-12-19T22:07:00.000Z",NA,NA,"Immediate","Southern",TRUE,"Carmelo Crump",NA
 2125,"Elijah","Williams","DL","UAB","","2023-12-19T22:05:00.000Z",NA,NA,"Immediate","UAB",FALSE,"Elijah Williams",NA
@@ -2155,7 +2147,6 @@
 2146,"Avery","Huff","LB","Louisiana Tech","Florida A&M","2024-04-30T21:24:00.000Z",0.83,3,"Immediate","Florida A&M",TRUE,"Avery Huff",NA
 2147,"Jailin","Walker","LB","James Madison","Indiana","2023-12-05T01:51:00.000Z",0.87,3,"Immediate","Indiana",TRUE,"Jailin Walker","indiana"
 2148,"Terry","Lockett Jr.","DL","Syracuse","James Madison","2023-12-11T16:53:00.000Z",0.83,3,"Immediate","James Madison",TRUE,"Terry Lockett Jr.","james-madison"
-2149,"Bryquice","Brown","CB","Georgia State","Boston College","2023-12-04T13:59:00.000Z",0.86,3,"Immediate","Boston College",TRUE,"Bryquice Brown","boise-state"
 2149,"Bryquice","Brown","CB","Georgia State","Boston College","2023-12-04T13:59:00.000Z",0.86,3,"Immediate","Boston College",TRUE,"Bryquice Brown","boston-college"
 2150,"Aiden","Fisher","LB","James Madison","Indiana","2023-12-05T01:50:00.000Z",0.86,3,"Immediate","Indiana",TRUE,"Aiden Fisher","indiana"
 2151,"Zavier","Carter","LB","UCF","","2024-04-22T16:14:00.000Z",NA,4,"Immediate","UCF",FALSE,"Zavier Carter",NA
@@ -2271,7 +2262,7 @@
 2261,"Hershey","McLaurin","S","West Virginia","Houston","2023-12-07T18:48:00.000Z",0.88,3,"Immediate","Houston",TRUE,"Hershey McLaurin","houston"
 2262,"Elijah","Wood","LB","San José State","Utah Tech","2023-12-04T06:00:00.000Z",NA,3,"Immediate","Utah Tech",TRUE,"Elijah Wood",NA
 2263,"Herman","Smith","S","Idaho State","Colorado","2024-01-18T17:03:00.000Z",0.85,3,"Immediate","Colorado",TRUE,"Herman Smith","colorado"
-2264,"Brett","Tommasini","LB","Boise State","","2023-12-22T21:37:00.000Z",NA,2,"Immediate","Boise State",FALSE,"Brett Tommasini",NA
+2264,"Brett","Tommasini","LB","Boise State","","2023-12-22T21:37:00.000Z",NA,2,"Immediate","Boise State",FALSE,"Brett Tommasini","boise-state"
 2265,"Ar'maj","Reed-Adams","IOL","Kansas","Texas A&M","2024-01-01T00:46:00.000Z",0.88,3,"Immediate","Texas A&M",TRUE,"Ar'maj Reed-Adams","texas-am"
 2266,"Dre","Butler","DL","Michigan State","Charlotte","2023-12-09T16:42:00.000Z",0.85,3,"Immediate","Charlotte",TRUE,"Dre Butler","charlotte"
 2267,"Grady","Kelly","DL","Colorado State","Florida State","2023-12-16T19:51:00.000Z",0.87,3,"Immediate","Florida State",TRUE,"Grady Kelly","florida-state"
@@ -2417,7 +2408,6 @@
 2407,"Darrien","Stewart","S","BYU","","2024-04-16T19:24:00.000Z",NA,3,"Immediate","BYU",FALSE,"Darrien Stewart","brigham-young"
 2408,"Jayden","Maiava","QB","UNLV","USC","2024-01-02T02:49:00.000Z",0.9,4,"Immediate","USC",TRUE,"Jayden Maiava",NA
 2409,"Jerrin","Thompson","S","Texas","Auburn","2024-01-05T23:56:00.000Z",0.88,3,"Immediate","Auburn",TRUE,"Jerrin Thompson","auburn"
-2410,"Connor","Lytton","K","Boston College","","2024-04-19T11:14:00.000Z",NA,2,"Immediate","Boston College",FALSE,"Connor Lytton","boise-state"
 2410,"Connor","Lytton","K","Boston College","","2024-04-19T11:14:00.000Z",NA,2,"Immediate","Boston College",FALSE,"Connor Lytton","boston-college"
 2411,"Cedric","Melton","OT","Ole Miss","Houston","2023-12-09T16:29:00.000Z",0.84,3,"Immediate","Houston",TRUE,"Cedric Melton","houston"
 2412,"Joey","Capra","IOL","Nevada","","2023-12-13T16:22:00.000Z",NA,3,"Immediate","Nevada",FALSE,"Joey Capra","nevada"
@@ -2554,7 +2544,7 @@
 2543,"Aubrey","Smith","LB","Houston","","2024-04-18T15:26:00.000Z",0.85,3,"Immediate","Houston",FALSE,"Aubrey Smith","houston"
 2544,"Mikal","Harrison-Pilot","CB","Houston","Texas Tech","2024-04-18T15:20:00.000Z",0.88,3,"Immediate","Texas Tech",TRUE,"Mikal Harrison-Pilot","texas-tech"
 2545,"Latrell","Jean","DL","Florida Atlantic","Temple","2024-04-18T15:20:00.000Z",NA,3,"Immediate","Temple",TRUE,"Latrell Jean","temple"
-2546,"Jaylen","Clark","CB","Boise State","","2024-04-18T12:37:00.000Z",NA,3,"Immediate","Boise State",FALSE,"Jaylen Clark",NA
+2546,"Jaylen","Clark","CB","Boise State","","2024-04-18T12:37:00.000Z",NA,3,"Immediate","Boise State",FALSE,"Jaylen Clark","boise-state"
 2547,"Da'Marcus","Crosby II","S","Sam Houston","New Mexico State","2024-04-17T22:36:00.000Z",0.85,3,"Immediate","New Mexico State",TRUE,"Da'Marcus Crosby II","new-mexico-state"
 2548,"Dakerric","Hobbs","CB","Sam Houston","New Mexico State","2024-04-17T21:25:00.000Z",0.83,3,"Immediate","New Mexico State",TRUE,"Dakerric Hobbs","new-mexico-state"
 2549,"Andre","Craig","WR","Alabama","Alabama A&M","2024-04-17T17:45:00.000Z",NA,NA,"Immediate","Alabama A&M",TRUE,"Andre Craig",NA
@@ -2697,7 +2687,6 @@
 2686,"Justice","Ellison","RB","Wake Forest","Indiana","2023-11-28T16:41:00.000Z",0.86,3,"Immediate","Indiana",TRUE,"Justice Ellison","indiana"
 2687,"Brock","Winstead","LS","East Carolina","East Tennessee State","2023-11-28T16:40:00.000Z",NA,NA,"Immediate","East Tennessee State",TRUE,"Brock Winstead",NA
 2688,"Kolbey","Taylor","CB","Wyoming","Vanderbilt","2023-12-04T15:28:00.000Z",0.86,3,"Immediate","Vanderbilt",TRUE,"Kolbey Taylor","vanderbilt"
-2689,"Jordan","McDonald","RB","UCF","Boston College","2023-12-04T15:27:00.000Z",0.89,3,"Immediate","Boston College",TRUE,"Jordan McDonald","boise-state"
 2689,"Jordan","McDonald","RB","UCF","Boston College","2023-12-04T15:27:00.000Z",0.89,3,"Immediate","Boston College",TRUE,"Jordan McDonald","boston-college"
 2690,"Eni","Falayi","TE","Massachusetts","Utah Tech","2023-12-04T15:27:00.000Z",NA,3,"Immediate","Utah Tech",TRUE,"Eni Falayi",NA
 2691,"Jakobus","Seth","OT","Washington State","Nevada","2023-12-04T18:15:00.000Z",0.82,3,"Immediate","Nevada",TRUE,"Jakobus Seth","nevada"
@@ -2734,7 +2723,6 @@
 2722,"Ilijah","Johnson","CB","UTEP","","2023-11-27T21:59:00.000Z",NA,NA,"Immediate","UTEP",FALSE,"Ilijah Johnson",NA
 2723,"Malcolm","Folk","S","Syracuse","Kent State","2023-11-27T21:56:00.000Z",0.83,3,"Immediate","Kent State",TRUE,"Malcolm Folk","kent-state"
 2724,"Caleb","Fauria","TE","Colorado","Delaware","2023-11-27T21:55:00.000Z",NA,3,"Immediate","Delaware",TRUE,"Caleb Fauria",NA
-2725,"Treshaun","Ward","RB","Kansas State","Boston College","2023-11-27T21:44:00.000Z",0.88,3,"Immediate","Boston College",TRUE,"Treshaun Ward","boise-state"
 2725,"Treshaun","Ward","RB","Kansas State","Boston College","2023-11-27T21:44:00.000Z",0.88,3,"Immediate","Boston College",TRUE,"Treshaun Ward","boston-college"
 2726,"Jefferson","Boaz","QB","North Carolina","Stephen F. Austin","2023-11-27T21:34:00.000Z",NA,3,"Immediate","Stephen F. Austin",TRUE,"Jefferson Boaz",NA
 2727,"Elijah","Green","RB","North Carolina","Indiana","2023-11-27T21:33:00.000Z",0.88,3,"Immediate","Indiana",TRUE,"Elijah Green","indiana"
@@ -2784,7 +2772,6 @@
 2771,"Joshua","Sales Jr.","OT","Indiana","Purdue","2023-11-29T18:59:00.000Z",0.84,3,"Immediate","Purdue",TRUE,"Joshua Sales Jr.","purdue"
 2772,"Jacob","Dobbs","LB","Holy Cross","James Madison","2023-11-20T06:00:00.000Z",0.87,3,"Immediate","James Madison",TRUE,"Jacob Dobbs","james-madison"
 2773,"Jeremiah","Piper","CB","Western Michigan","Western Illinois","2023-12-04T15:13:00.000Z",NA,2,"Immediate","Western Illinois",TRUE,"Jeremiah Piper",NA
-2774,"Grayson","James","QB","Florida International","Boston College","2023-12-04T15:12:00.000Z",0.84,3,"Immediate","Boston College",TRUE,"Grayson James","boise-state"
 2774,"Grayson","James","QB","Florida International","Boston College","2023-12-04T15:12:00.000Z",0.84,3,"Immediate","Boston College",TRUE,"Grayson James","boston-college"
 2775,"CJ","Rogers","QB","Texas State","Houston Christian","2023-12-04T14:57:00.000Z",NA,NA,"Immediate","Houston Christian",TRUE,"CJ Rogers",NA
 2776,"Rance","Conner","CB","East Carolina","","2023-12-04T15:12:00.000Z",NA,3,"Immediate","East Carolina",FALSE,"Rance Conner","east-carolina"
@@ -3284,7 +3271,7 @@
 3270,"Jah-Mal","Williams","LB","Cincinnati","Troy","2023-12-04T13:45:00.000Z",0.84,3,"Immediate","Troy",TRUE,"Jah-Mal Williams","troy"
 3271,"Cam","Williams","LB","Jacksonville State","Georgia State","2024-03-12T05:00:00.000Z",0.83,3,"Immediate","Georgia State",TRUE,"Cam Williams","georgia-state"
 3272,"Justin","Wodtly","DL","Cincinnati","Arizona State","2023-12-04T14:13:00.000Z",0.85,3,"Immediate","Arizona State",TRUE,"Justin Wodtly","arizona-state"
-3273,"Tavion","Woodard","DE","Ball State","Boise State","2023-12-19T22:02:00.000Z",0.84,3,"Immediate","Boise State",TRUE,"Tavion Woodard",NA
+3273,"Tavion","Woodard","DE","Ball State","Boise State","2023-12-19T22:02:00.000Z",0.84,3,"Immediate","Boise State",TRUE,"Tavion Woodard","boise-state"
 3274,"Caiden","Woullard","DL","Miami (OH)","Oklahoma","2023-12-26T15:59:00.000Z",0.93,4,"Immediate","Oklahoma",TRUE,"Caiden Woullard","oklahoma"
 3275,"Dylan","Wudke","DE","Youngstown State","Kansas","2023-12-05T23:56:00.000Z",0.84,3,"Immediate","Kansas",TRUE,"Dylan Wudke","kansas"
 3276,"Zion","Young","DE","Michigan State","Missouri","2023-12-04T15:59:00.000Z",0.89,3,"Immediate","Missouri",TRUE,"Zion Young","missouri"
