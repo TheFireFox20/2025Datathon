@@ -18,7 +18,7 @@ teams <- read_html(url) |>
 teams <- teams[!is.na(teams)]
 
 
-for (i in 105:length(teams)) {
+for (i in 1:length(teams)) {
   for (j in 1:length(years)) {
     tryCatch({
     url1 <- paste0("https://www.sports-reference.com/",teams[i],years[j],".html")
