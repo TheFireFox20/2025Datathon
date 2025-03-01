@@ -18,7 +18,7 @@ teams <- read_html(url) |>
 teams <- teams[!is.na(teams)]
 
 
-for (i in 29:length(teams)) {
+for (i in 40:length(teams)) {
   for (j in 1:length(years)) {
     tryCatch({
     url1 <- paste0("https://www.sports-reference.com/",teams[i],years[j],".html")
@@ -124,7 +124,7 @@ for (i in 29:length(teams)) {
               paste0("scoring_standard/scoring_standard","_",team,"_",years[j],".csv"),
               row.names = F)
 
-    Sys.sleep(5)
+    Sys.sleep(10)
     }, error = function(e) {
       return(NULL)
     })
