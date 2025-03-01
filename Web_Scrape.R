@@ -125,11 +125,13 @@ for (i in 57:length(teams)) {
               row.names = F)
 
     print(i)
-    Sys.sleep(10)
+    Sys.sleep(2^sample(c(2,3,4),1))
     }, error = function(e) {
       print(i)
       return(NULL)
     })
   }
 }
+
+
 
