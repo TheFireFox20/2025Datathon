@@ -17,7 +17,6 @@ teams <- read_html(url) |>
 
 teams <- teams[!is.na(teams)]
 
-
 for (i in 1:length(teams)) {
   for (j in 1:length(years)) {
     tryCatch({
