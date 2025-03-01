@@ -126,6 +126,8 @@ for (i in 57:length(teams)) {
 
     print(i)
     Sys.sleep(2^sample(c(2,3,4),1))
+    closeAllConnections()
+
     }, error = function(e) {
       print(i)
       return(NULL)
