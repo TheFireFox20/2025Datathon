@@ -124,6 +124,7 @@ for (i in 57:length(teams)) {
               paste0("scoring_standard/scoring_standard","_",team,"_",years[j],".csv"),
               row.names = F)
 
+    print(i)
     Sys.sleep(10)
     }, error = function(e) {
       return(NULL)
