@@ -19,4 +19,14 @@ df_final.drop(columns=['Player', 'Team_New'], inplace=True, errors='ignore')
 
 output = 'final.csv'
 
-df_final.to_csv(output, index=False)
+# df_final.to_csv(output, index=False)
+
+transfer_counts = df_final['Transfer_y'].value_counts(dropna=False)
+
+num_true = transfer_counts.get(True, 0)
+num_false = transfer_counts.get(False, 0)
+num_nan = transfer_counts.get(pd.NA, 0)  # Count NaN values separately
+
+print(f"True count: {num_true}")
+print(f"False count: {num_false}")
+print(f"NaN count: {num_nan}")

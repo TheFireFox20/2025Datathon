@@ -2,7 +2,7 @@ Team_New,Team
 air-force,Air Force
 akron,Akron
 alabama,Alabama
-alabama-birmingham,
+alabama-birmingham,UAB
 appalachian-state,App State
 arizona,Arizona
 arizona-state,Arizona State
@@ -18,7 +18,7 @@ bowling-green-state,Bowling Green
 brigham-young,BYU
 buffalo,Buffalo
 california,California
-central-florida,
+central-florida,UCF
 central-michigan,Central Michigan
 charlotte,Charlotte
 cincinnati,Cincinnati
@@ -52,8 +52,8 @@ kansas-state,Kansas State
 kent-state,Kent State
 kentucky,Kentucky
 liberty,Liberty
-louisiana-lafayette,
-louisiana-monroe,
+louisiana-lafayette,Lafayette
+louisiana-monroe,UL Monroe
 louisiana-state,LSU
 louisiana-tech,Louisiana Tech
 louisville,Louisville
@@ -73,11 +73,11 @@ missouri,Missouri
 navy,Navy
 nebraska,Nebraska
 nevada,Nevada
-nevada-las-vegas,
+nevada-las-vegas,UNLV
 new-mexico,New Mexico
 new-mexico-state,New Mexico State
 north-carolina,North Carolina
-north-carolina-state,
+north-carolina-state,NC State
 north-texas,North Texas
 northern-illinois,Northern Illinois
 northwestern,Northwestern
@@ -100,7 +100,7 @@ san-jose-state,San José State
 south-alabama,South Alabama
 south-carolina,South Carolina
 south-florida,South Florida
-southern-california,
+southern-california,USC
 southern-methodist,SMU
 southern-mississippi,Southern Miss
 stanford,Stanford
@@ -109,9 +109,9 @@ temple,Temple
 tennessee,Tennessee
 texas,Texas
 texas-am,Texas A&M
-texas-christian,
-texas-el-paso,
-texas-san-antonio,
+texas-christian,TCU
+texas-el-paso,UTEP
+texas-san-antonio,UTSA
 texas-state,Texas State
 texas-tech,Texas Tech
 toledo,Toledo
