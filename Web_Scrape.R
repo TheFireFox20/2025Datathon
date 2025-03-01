@@ -127,6 +127,7 @@ for (i in 57:length(teams)) {
     print(i)
     Sys.sleep(10)
     }, error = function(e) {
+      print(i)
       return(NULL)
     })
   }
